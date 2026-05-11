@@ -9,6 +9,7 @@ Hosted on Vercel: https://fasttam.vercel.app
 - `/` — Marketing (landing)
 - `/support` — Customer support & FAQ
 - `/privacy` — Privacy policy
+- `/app-ads.txt` — AdMob app ownership verification
 
 ## Local preview
 
